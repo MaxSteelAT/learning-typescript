@@ -1,0 +1,49 @@
+{
+  "folders": [
+	{
+		"path": "../Code"
+	},
+	{
+		"path": "../Frontend-Mentor"
+	},
+	{
+		"path": "../Sistema de Gestion de Citas Medicas"
+	},
+	{
+		"path": "../Frontend-Mentor/product-list-with-cart-REACT"
+	},
+	{
+		"path": "../Learning-Python"
+	},
+	{
+		"path": "../my-shop"
+	},
+	{
+		"path": "../myShop-REACT"
+	},
+	{
+		"path": "../Node"
+	},
+	{
+		"path": "../Xampp/htdocs/learning-PHP"
+	},
+	{
+		"path": "../Xampp/htdocs/todo-list-PHP"
+	},
+	{
+		"path": "../Xampp/htdocs/blog-php"
+	},
+	{
+		"path": "../devchallenges"
+	},
+	{
+		"path": "../vue-proyects"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Frontend-Mentor"
+  }
+}
